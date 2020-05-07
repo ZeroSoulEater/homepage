@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/82f36cab-560c-4a1d-8b81-b3710b38e89c/deploy-status)](https://app.netlify.com/sites/timopurzner/deploys)
+
 # Homepage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
